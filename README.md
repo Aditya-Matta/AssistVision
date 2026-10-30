@@ -2,7 +2,7 @@
 
 ### Real-Time Assistive Object Detection System
 
-**IEEE Mini Project** | Python · OpenCV · MobileNet-SSD · pyttsx3 · Tkinter
+**IEEE Project** | Python · OpenCV · MobileNet-SSD · pyttsx3 · Tkinter
 
 ---
 
