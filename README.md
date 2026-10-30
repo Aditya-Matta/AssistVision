@@ -34,6 +34,7 @@ objects (vehicles, people) using distinct alert language.
 assistive_vision/
 ├── main.py             Entry point
 ├── gui.py              Tkinter interface
+├── measure.py          Measures metrics for the detection
 ├── detector.py         MobileNet-SSD wrapper
 ├── voice_engine.py     Priority voice alert system
 ├── sos.py              SOS email module
