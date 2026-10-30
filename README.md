@@ -1,4 +1,3 @@
-
 # AssistVision 👁
 
 ### Real-Time Assistive Object Detection System
@@ -64,7 +63,7 @@ python download_model.py
 
 ### 3. Configure SOS email (optional)
 
-Edit `config.py`:
+Edit `.env`:
 
 ```python
 SOS_SENDER_EMAIL    = "your_gmail@gmail.com"
